@@ -83,11 +83,11 @@ export default {
 				
 			},
 			{
-				text: 'Email kỹ thuật: hotro@dautu101.com',
+				text: 'Email: hotro@dautu101.com',
 				
 			},
 			{
-				text: 'Email Phòng phân tích: research@dautu101.com',
+				text: 'hoặc: research@dautu101.com',
 				
 			}
 			
