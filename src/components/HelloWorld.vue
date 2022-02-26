@@ -79,7 +79,7 @@ export default {
 	data: () => ({
 		ecosystem: [
 			{
-				text: ' 0938 239 388',
+				text: 'Hotline: 0938 239 388',
 				
 			},
 			{
@@ -87,7 +87,7 @@ export default {
 				
 			},
 			{
-				text: 'hoặc: research@dautu101.com',
+				text: 'hoặc:  research@dautu101.com',
 				
 			}
 			
