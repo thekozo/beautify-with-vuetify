@@ -83,7 +83,7 @@ export default {
 				
 			},
 			{
-				text: 'Email: hotro@dautu101.com',
+				text: 'Email: support@dautu101.com',
 				
 			},
 			{
