@@ -52,7 +52,7 @@ export default {
         },
         {
           label: 'Bảng giá',
-          url: '/dashboard'
+          url: '/banggia101'
         },
         {
           label: 'Trung tâm phân tích',

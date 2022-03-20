@@ -15,9 +15,9 @@
 					DAU TU 101
 				</h1>
 				<p class="subheading font-weight-regular">
-					Kết nối và đồng hành,
-					<br />Cộng đồng Nhà đầu tư Telegram
-					<a href="https://t.me/dautu101" target="_blank"
+					MỞ TÀI KHOẢN MIỄN PHÍ,
+					<br />Để đồng hành cùng Đầu Tư 101
+					<a href="https://bit.ly/Mo_Tai_khoan_VPS" target="_blank"
 						>@dautu101</a
 					>
 				</p>
@@ -114,15 +114,19 @@ export default {
 		whatsNext: [
 			{
 				text: 'Cơ cấu lại danh mục miễn phí',
-				href: 'https://t.me/dautu101'
+				href: 'https://t.me/thekozo'
 			},
 			{
-				text: 'Tư vấn tạo danh mục tối ưu',
-				href: 'https://t.me/dautu101'
+				text: 'Kênh Zalo',
+				href: 'https://zalo.me/dautu101'
 			},
 			{
-				text: 'Các chia sẻ về kinh nghiệm đầu tư',
-				href: 'https://t.me/dautu101'
+				text: 'Mở Tài khoản miễn phí VPS',
+				href: 'https://bit.ly/Mo_Tai_khoan_VPS'
+			},
+			{
+				text: 'Hoặc chứng khoán Techcombank',
+				href: 'https://bit.ly/opentcbs'
 			}
 		]
 	})
