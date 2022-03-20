@@ -24,7 +24,7 @@
 			</v-flex>
 
 			<v-flex mb-5 xs12>
-				<h2 class="headline font-weight-bold mb-3">Cách chúng tôi hỗ trợ bạn?</h2>
+				<h2 class="headline font-weight-bold mb-3">Đồng hành cùng Đầu Tư 101</h2>
 
 				<v-layout justify-center>
 					<a
@@ -99,7 +99,7 @@ export default {
 			},
 			{
 				text: 'Telegram cho Nhà đầu tư',
-				href: 'https://t.me/dautu101'
+				href: 'https://t.me/addautu101'
 			},
 			{
 				text: 'WhatsApp Business',
