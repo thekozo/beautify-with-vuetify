@@ -118,15 +118,11 @@ export default {
 			},
 			{
 				text: 'Kênh Zalo',
-				href: 'https://zalo.me/dautu101'
+				href: 'https://zalo.me/addautu101'
 			},
 			{
 				text: 'Mở Tài khoản miễn phí VPS',
 				href: 'https://bit.ly/Mo_Tai_khoan_VPS'
-			},
-			{
-				text: 'Hoặc chứng khoán Techcombank',
-				href: 'https://bit.ly/opentcbs'
 			}
 		]
 	})
