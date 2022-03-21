@@ -23,6 +23,11 @@ export default new Router({
         import(/* webpackChunkName: "about" */ './views/About.vue')
     },
     {
+      path: '/banggia101',
+      name: 'bảng giá 101',
+      component: () => import('./views/banggia101.vue')
+    },
+    {
       path: '/dashboard',
       name: 'Phân tích nhanh cổ phiếu',
       component: () => import('./views/Dashboard.vue')

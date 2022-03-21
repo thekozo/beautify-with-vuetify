@@ -99,7 +99,7 @@ export default {
 			},
 			{
 				text: 'Telegram cho Nhà đầu tư',
-				href: 'https://t.me/addautu101'
+				href: 'https://t.me/thekozo'
 			},
 			{
 				text: 'WhatsApp Business',
@@ -113,12 +113,12 @@ export default {
 		],
 		whatsNext: [
 			{
-				text: 'Cơ cấu lại danh mục miễn phí',
+				text: 'Cơ cấu lại danh mục LỖ miễn phí',
 				href: 'https://t.me/thekozo'
 			},
 			{
 				text: 'Kênh Zalo',
-				href: 'https://zalo.me/addautu101'
+				href: 'https://zalo.me/dautu101'
 			},
 			{
 				text: 'Mở Tài khoản miễn phí VPS',
