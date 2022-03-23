@@ -28,7 +28,7 @@ export default new Router({
       component: () => import('./views/banggia101.vue')
     },
     {
-      path: '/dashboard',
+      path: '/research',
       name: 'Phân tích nhanh cổ phiếu',
       component: () => import('./views/Dashboard.vue')
     },
