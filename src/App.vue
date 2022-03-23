@@ -56,7 +56,7 @@ export default {
         },
         {
           label: 'Trung tâm phân tích',
-          url: '/dashboard'
+          url: '/research'
         },
         {
           label: 'Đăng nhập',
