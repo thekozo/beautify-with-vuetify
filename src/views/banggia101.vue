@@ -1,7 +1,7 @@
 <template>
   <div class="bangia101">
           <iframe
-            :src="`https://www.hsx.vn/Modules/Rsde/RealtimeTable/LiveSecurity`"
+            :src="`https://iboard.ssi.com.vn`"
             width="100%"
             height="1000px"
             frameborder="0" >
