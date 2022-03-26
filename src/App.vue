@@ -59,6 +59,10 @@ export default {
           url: '/research'
         },
         {
+          label: 'Thị trường toàn cầu',
+          url: '/globalmarket'
+        },
+        {
           label: 'Đăng nhập',
           url: '/login'
         }
