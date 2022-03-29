@@ -55,12 +55,12 @@ export default {
           url: '/banggia101'
         },
         {
-          label: 'Trung tâm phân tích',
-          url: '/research'
+          label: 'Phân tích kỹ thuật',
+          url: '/ptkt'
         },
         {
-          label: 'Thị trường toàn cầu',
-          url: '/globalmarket'
+          label: 'Trung tâm phân tích',
+          url: '/research'
         },
         {
           label: 'Đăng nhập',
