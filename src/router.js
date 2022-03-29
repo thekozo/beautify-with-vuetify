@@ -28,6 +28,11 @@ export default new Router({
       component: () => import('./views/banggia101.vue')
     },
     {
+      path: '/ptkt',
+      name: 'ptkt',
+      component: () => import('./views/ptkt.vue')
+    },
+    {
       path: '/research',
       name: 'Phân tích nhanh cổ phiếu',
       component: () => import('./views/Dashboard.vue')
