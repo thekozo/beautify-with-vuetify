@@ -3,7 +3,7 @@
           <iframe
             :src="`https://ifin.tvsi.com.vn/`"
             width="100%"
-            height="1000px"
+            height="4386px"
             frameborder="0">
             </iframe>
     </div>
