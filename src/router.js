@@ -28,6 +28,11 @@ export default new Router({
       component: () => import('./views/banggia101.vue')
     },
     {
+      path: '/deepmarket',
+      name: 'Thị trường chuyên sâu',
+      component: () => import('./views/deepmarket.vue')
+    },
+    {
       path: '/ptkt',
       name: 'ptkt',
       component: () => import('./views/ptkt.vue')

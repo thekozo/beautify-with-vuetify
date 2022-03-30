@@ -55,6 +55,10 @@ export default {
           url: '/banggia101'
         },
         {
+          label: 'Thị trường chuyên sâu',
+          url: '/deepmarket'
+        },
+        {
           label: 'Phân tích kỹ thuật',
           url: '/ptkt'
         },
