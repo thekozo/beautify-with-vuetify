@@ -40,7 +40,7 @@ export default new Router({
     {
       path: '/research',
       name: 'Phân tích nhanh cổ phiếu',
-      component: () => import('./views/Dashboard.vue')
+      component: () => import('./views/research.vue')
     },
     {
       path: '/login',
