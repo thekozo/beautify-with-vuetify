@@ -123,6 +123,10 @@ export default {
 			{
 				text: 'Mở Tài khoản miễn phí VPS',
 				href: 'https://bit.ly/Mo_Tai_khoan_VPS'
+			},
+			{
+				text: 'Hướng dẫn mở Tài khoản',
+				href: 'https://drive.google.com/file/d/15aeH_RT_VmB1bDKjnSAnBdaLG1Q9orK7/view?usp=sharing'
 			}
 		]
 	})
