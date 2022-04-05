@@ -126,7 +126,7 @@ export default {
 			},
 			{
 				text: 'Hướng dẫn mở Tài khoản',
-				href: 'https://drive.google.com/file/d/15aeH_RT_VmB1bDKjnSAnBdaLG1Q9orK7/view?usp=sharing'
+				href: 'https://drive.google.com/file/d/1zKYg9qeojCaHQHmHdgPjj5NbwsLAt-9e/view?usp=sharing'
 			}
 		]
 	})
