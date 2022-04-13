@@ -55,16 +55,16 @@ export default {
           url: '/research'
         },
         {
+          label: 'Phân tích kỹ thuật',
+          url: '/ptkt'
+        },
+        {
           label: 'Bảng giá',
           url: '/banggia101'
         },
         {
           label: 'Thị trường chuyên sâu',
           url: '/deepmarket'
-        },
-        {
-          label: 'Phân tích kỹ thuật',
-          url: '/ptkt'
         },
         {
           label: 'Đăng nhập',

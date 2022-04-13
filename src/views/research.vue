@@ -7,6 +7,5 @@
             scrolling="no"
             frameborder="0">
             </iframe>
-    </div>
-    </div>
+  </div>
 </template>
