@@ -51,6 +51,10 @@ export default {
           url: '/'
         },
         {
+          label: 'Trung tâm phân tích',
+          url: '/research'
+        },
+        {
           label: 'Bảng giá',
           url: '/banggia101'
         },
@@ -61,10 +65,6 @@ export default {
         {
           label: 'Phân tích kỹ thuật',
           url: '/ptkt'
-        },
-        {
-          label: 'Trung tâm phân tích',
-          url: '/research'
         },
         {
           label: 'Đăng nhập',
