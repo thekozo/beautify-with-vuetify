@@ -15,9 +15,9 @@
 					DAU TU 101
 				</h1>
 				<p class="subheading font-weight-regular">
-					MỞ TÀI KHOẢN MIỄN PHÍ,
-					<br />Để đồng hành cùng Đầu Tư 101
-					<a href="https://bit.ly/Mo_Tai_khoan_VPS" target="_blank"
+					CƠ CẤU DANH MỤC THUA LỖ,
+					<br />Miễn phí cùng Đầu Tư 101
+					<a href="hhttps://zalo.me/0938239388" target="_blank"
 						>@dautu101</a
 					>
 				</p>
@@ -79,7 +79,7 @@ export default {
 	data: () => ({
 		ecosystem: [
 			{
-				text: 'Hotline: 0938 239 388',
+				text: 'Hotline: Đăng ký Premium',
 				
 			},
 			{
@@ -94,35 +94,31 @@ export default {
 		],
 		importantLinks: [
 			{
-				text: 'Telegram cho người mới',
-				href: 'https://t.me/addautu101'
-			},
-			{
-				text: 'Telegram cho Nhà đầu tư',
-				href: 'https://t.me/thekozo'
+				text: 'Zalo',
+				href: 'https://zalo.me/0938239388'
 			},
 			{
 				text: 'WhatsApp Business',
 				href: 'https://wa.me/message/QLTBJG5O3HHLE1'
 			},
 			{
-				text: 'Twitter',
-				href: 'https://twitter.com/'
+				text: 'Tiktok',
+				href: 'https://www.tiktok.com/@chungkhoan'
 			}
 			
 		],
 		whatsNext: [
 			{
-				text: 'Cơ cấu lại danh mục LỖ miễn phí',
-				href: 'https://t.me/thekozo'
-			},
-			{
-				text: 'Kênh Zalo',
-				href: 'https://zalo.me/dautu101'
+				text: 'Nhóm Zalo cộng đồng',
+				href: 'https://zalo.me/g/wsxddc994'
 			},
 			{
 				text: 'Mở Tài khoản miễn phí VPS',
-				href: 'https://bit.ly/Mo_Tai_khoan_VPS'
+				href: 'https://bit.ly/VPSSecurities'
+			},
+			{
+				text: 'hoặc Link sau',
+				href: 'https://bit.ly/HTVPSSecurities'
 			},
 			{
 				text: 'Hướng dẫn mở Tài khoản',
