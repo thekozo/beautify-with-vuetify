@@ -117,7 +117,7 @@ export default {
 				href: 'https://bit.ly/VPSSecurities'
 			},
 			{
-				text: 'hoặc Link VPS của WK',
+				text: 'hoặc Link VPS-WK',
 				href: 'https://bit.ly/HTVPSSecurities'
 			},
 			{
