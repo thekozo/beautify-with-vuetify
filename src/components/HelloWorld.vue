@@ -113,6 +113,10 @@ export default {
 				href: 'https://zalo.me/g/wsxddc994'
 			},
 			{
+				text: 'Nhóm Zalo WK',
+				href: 'https://zalo.me/g/smqzbm020'
+			},
+			{
 				text: 'Mở Tài khoản miễn phí VPS',
 				href: 'https://bit.ly/VPSSecurities'
 			},
