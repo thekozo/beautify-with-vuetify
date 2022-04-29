@@ -17,7 +17,7 @@
 				<p class="subheading font-weight-regular">
 					CƠ CẤU DANH MỤC THUA LỖ,
 					<br />Miễn phí cùng Đầu Tư 101
-					<a href="hhttps://zalo.me/0938239388" target="_blank"
+					<a href="https://zalo.me/0938239388" target="_blank"
 						>@dautu101</a
 					>
 				</p>
