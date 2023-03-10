@@ -1,8 +1,9 @@
 <template>
   <div class="research">
           <iframe
-            :src="`https://app.powerbi.com/view?r=eyJrIjoiZmUyNDU5OTktM2FiMS00N2NmLWE0M2ItMzZkZDNiODY3ZTlkIiwidCI6IjgzZmEzNTM3LTYyMGEtNDliYS04NDk1LTg4NTk5ZmU4NTViMSIsImMiOjEwfQ%3D%3D`"
+            :src="`https://tradingeconomics.com/commodities`"
             width="100%"
+            sandbox="allow-same-origin allow-scripts"
             height="1000px"
             scrolling="no"
             frameborder="0">
